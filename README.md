@@ -1,11 +1,12 @@
 # Modern Portfolio Website
 
-**Company**: CodeTech IT Solutions  
-**Name**: Mayank Verma  
-**Intern ID**: CTO4WY20  
-**Domain**: Front End Development  
-**Duration**: 4 Weeks  
-**Mentor**: Vaishali Shrivastava
+**Company:** CodeTech IT Solutions  
+**Name:** MAYANK VERMA  
+**Intern ID:** CTO4WY20  
+**Domain:** FRONT END DEVELOPMENT  
+**Duration:** 4 WEEKS  
+**Mentor:** NEELA SANTOSH
+
 
 
 A clean, responsive portfolio website built with HTML, CSS, Bootstrap 4, and JavaScript. Features a particle.js welcome page effect and smooth transitions.
