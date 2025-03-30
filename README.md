@@ -7,6 +7,7 @@ A clean, responsive portfolio website built with HTML, CSS, Bootstrap 4, and Jav
 ![Portfolio Preview](3.png)
 ![Portfolio Preview](4.png)
 ![Portfolio Preview](5.png)
+![Portfolio Preview](6.png)
 
 ## Features
 
@@ -19,18 +20,9 @@ A clean, responsive portfolio website built with HTML, CSS, Bootstrap 4, and Jav
 - **Font Awesome Icons**: Comprehensive icon library integrated.
 - **Easy Customization**: Well-structured code for easy modifications.
 
-## Table of Contents
-
-- [Setup](#setup)
-- [Customization](#customization)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Browser Support](#browser-support)
-- [License](#license)
-- [Credits](#credits)
 
 ## Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Mayank_5362/portfolio-website.git
